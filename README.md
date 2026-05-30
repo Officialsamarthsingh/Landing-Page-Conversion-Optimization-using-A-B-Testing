@@ -20,14 +20,15 @@ Should the company replace the existing landing page with the new version?
 
 ### Dataset Information
 
-Attribute          | Value
-Total Records      | 294,478
-Experiment Groupsb | Control / Treatment
-Outcome Variable   | Converted (1) / Not Converted (0)
-Traffic Allocation | Approximately 50/50 Split
-Experiment Type    | A/B Testing
+| Attribute          | Value                   |
+|--------------------|-------------------------|
+| Total Records      | 294,478                 |
+| Experiment Groupsb | Control / Treatment     |
+| Outcome Variable   | Converted (1) / Not Converted (0) |
+| Traffic Allocation | Approximately 50/50 Split |
+|Experiment Type     | A/B Testing            |
 
-Key Columns
+### Key Columns
 
 - user_id
 - timestamp
@@ -94,6 +95,7 @@ A Two-Proportion Z-Test was performed to compare conversion rates between the co
 ### Results
 
 | Metric              | Value           |
+|---------------------|-----------------|
 | Z-Statistic         | -1.311          |
 | P-Value             | 0.905           | 
 | Confidence Interval | [-0.38%, +0.08%]|

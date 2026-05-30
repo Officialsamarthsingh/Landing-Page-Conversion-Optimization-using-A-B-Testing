@@ -126,11 +126,11 @@ Landing_Page_Conversion_Optimization_using_AB-Testing/
 
 ├── data/
 
+├── images/
+
 ├── notebooks/
 
 ├── presentation/
-
-├── images/
 
 ├── README.md
 

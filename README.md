@@ -93,10 +93,10 @@ A Two-Proportion Z-Test was performed to compare conversion rates between the co
 
 ### Results
 
-Metric              | Value
-Z-Statistic         | -1.311
-P-Value             | 0.905
-Confidence Interval | [-0.38%, +0.08%]
+| Metric              | Value           |
+| Z-Statistic         | -1.311          |
+| P-Value             | 0.905           | 
+| Confidence Interval | [-0.38%, +0.08%]|
 
 ---
 
@@ -121,13 +121,18 @@ The experiment did not demonstrate a significant improvement in conversion perfo
 ### Repository Structure
 
 Landing_Page_Conversion_Optimization_using_AB-Testing/
-│
+
 ├── data/
+
 ├── notebooks/
+
 ├── presentation/
+
 ├── images/
+
 ├── README.md
-└── requirements.txt
+
+└── LICENSE 
 
 ---
 
